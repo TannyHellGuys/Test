@@ -1,5 +1,6 @@
 local Table = {
 	[292753077] = {["HNAD-DWASD2-SWASswWA-123@-ASD"] = "Run/Dash/Stat",}
+	[123123123] = {["HNAD-DWASD2-SWASswWA-123@-ASD"] = "Run/Dash/Stat",}
 }
 
 return Table
