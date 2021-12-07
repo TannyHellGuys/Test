@@ -1,4 +1,4 @@
-local Xd = {
-	["KuyRai"] = false 
+return {
+	[1] = "Test"
+	[2] = "Hello"
 }
-return Xd
