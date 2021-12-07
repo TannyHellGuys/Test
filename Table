@@ -1,5 +1,5 @@
 local Table = {
-	[292753077"] = {["HNAD-DWASD2-SWASswWA-123@-ASD"] = true,}
+	[292753077] = {["HNAD-DWASD2-SWASswWA-123@-ASD"] = true,}
 }
 
 return Table
