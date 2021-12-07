@@ -1,0 +1,4 @@
+local Xd = {
+	["KuyRai"] = false 
+}
+return Xd
