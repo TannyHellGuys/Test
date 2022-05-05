@@ -1,6 +1,0 @@
-local Table = {
-	["agrrjk"] = {["HNAD-DWASD2-SWASswWA-123@-ASD"] = "Run/Dash/Stat",},
-	["xH3ROIC"] = {["JAME-WASD-KUY-123@-JAME"] = "Run/Dash/Stat",},
-}
-
-return Table
